@@ -33,5 +33,5 @@ Reference link: https://dzone.com/articles/cassandra-data-modeling-primary-clust
 - DROP TABLE employees;
 - SELECT * FROM system.schema_keyspaces ;
 
-**Model in cassandra:**
+**Model in cassandra:**  
 Reference link: https://cqlengine.readthedocs.io/en/latest/
